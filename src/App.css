@@ -40,3 +40,10 @@
 .read-the-docs {
   color: #888;
 }
+
+
+.btn-click{
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
