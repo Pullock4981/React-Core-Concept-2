@@ -47,3 +47,10 @@
   flex-direction: column;
   gap: 20px;
 }
+
+.add-reduce{
+  margin: 20px;
+  padding: 20px;
+  border: 2px solid purple;
+  border-radius: 10px;
+}
